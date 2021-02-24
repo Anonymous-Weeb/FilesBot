@@ -2,7 +2,7 @@
 
 Powerful bot for file sharing without any database
 
-- can be found on 👉 [Telegram](https://telegram.dog/GoFiIesBot) 👈
+- can be found on 👉 [Telegram](http://t.me/Jeanne_dArc_bot) 👈
 
 
 ## License: CC0 1.0 Universal (Public Domain)
